@@ -1,0 +1,11 @@
+This site is online - FTP info
+ - address: 
+code-lineup.go.yj.fr
+ - identifier: 
+fywfvffv
+ - password: 
+c8gDrS3zUMknWH
+
+
+Test speed website: 
+https://developers.google.com/speed/pagespeed/insights/
